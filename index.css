@@ -1,0 +1,76 @@
+.box-buttom{
+    text-align: center;
+}
+
+.botao{
+    border-radius: 30px;
+    width: 150px;
+    height: 50px;
+}
+#papel{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.box-score{
+    position: relative;
+}
+
+.comput{
+    float: right;
+    margin-right: 250px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+.playe{
+    float: left;
+    margin-left: 250px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.clear{
+    clear: both;
+}
+
+#papelImg{
+    height: 100px;
+    width: 100px;
+    visibility: hidden;
+}
+
+#pedraImg{
+    height: 100px;
+    width: 100px;
+    visibility: hidden;
+}
+
+#tesouraImg{
+    height: 100px;
+    width: 100px;
+    visibility: hidden;
+}
+
+#papelPc{
+    height: 100px;
+    width: 100px;
+    visibility: hidden;
+}
+
+#pedraPc{
+    height: 100px;
+    width: 100px;
+    visibility: hidden;
+}
+
+#tesouraPc{
+    height: 100px;
+    width: 100px;
+    visibility: hidden;
+}
+
+.body{
+    background-color: rgb(192, 192, 192);
+}
